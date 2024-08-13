@@ -6,7 +6,7 @@ Création d'une double landing page en HTML5, CSS3 et JavaScript
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/double_landing_page/
 
 ## Développez avec
 
